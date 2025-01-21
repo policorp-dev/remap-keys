@@ -1,0 +1,83 @@
+remap-keys (1.0.13) stable; urgency=medium
+
+  * Add SINO Keyboard
+
+ -- Edson Juliano Drosdeck <edsons@policorp.com.br>  Thu, 12 Dec 2024 14:03:20 -0300
+
+remap-keys (1.0.12) stable; urgency=medium
+
+  * add tecla key compose
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Mon, 25 Nov 2024 11:26:06 -0400
+
+remap-keys (1.0.11) stable; urgency=medium
+
+  * Add suporte a tecla 6b para rotate display
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Tue, 19 Nov 2024 14:50:58 -0400
+
+remap-keys (1.0.10) stable; urgency=medium
+
+  * add suporte ao n14zp6
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Fri, 27 Sep 2024 09:14:25 -0400
+
+remap-keys (1.0.9) stable; urgency=medium
+
+  * Add suporte ao VAIO VJFH52-RPL
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Thu, 22 Aug 2024 15:33:46 -0400
+
+remap-keys (1.0.8) stable; urgency=medium
+
+  * changed maintainer
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Mon, 05 Aug 2024 16:12:07 -0300
+
+remap-keys (1.0.7) stable; urgency=medium
+
+  * correcao para ult154 multilaser (#79)
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Tue, 18 Jun 2024 08:45:47 -0300
+
+remap-keys (1.0.6) stable; urgency=medium
+
+  * Adicionado suporte a teclas para o modelo N14AP74G
+
+ -- Matheus Aguiar <matheus.aguiar@policorp.com.br>  Tue, 28 May 2024 15:28:27 -0300
+
+remap-keys (1.0.5) stable; urgency=medium
+
+  * Adiciona configuracao para teclas do modelo N15EPE #8
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Thu, 11 Apr 2024 11:55:08 -0300
+
+remap-keys (1.0.4) stable; urgency=medium
+
+  * Adiciona configuracao para teclas do modelo N14NPE N15NPE
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Tue, 26 Mar 2024 11:07:13 +0000
+
+remap-keys (1.0.3) stable; urgency=medium
+
+  * Adiciona configuracao para teclas do modelo N14NPE-N,N15NPE-N
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Wed, 13 Mar 2024 14:06:11 -0300
+
+remap-keys (1.0.2) stable; urgency=medium
+
+  * Correcao do postrm
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Tue, 03 Oct 2023 08:50:16 -0400
+
+remap-keys (1.0.1) stable; urgency=medium
+
+  * Updated
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Thu, 28 Sep 2023 10:03:07 -0300
+
+remap-keys (1.0.0) stable; urgency=medium
+
+  * Initial Release
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Mon, 27 Mar 2023 13:19:21 +0000
