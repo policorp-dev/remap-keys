@@ -1,3 +1,15 @@
+remap-keys (1.0.15) stable; urgency=medium
+
+  * Add suporte ao teclado positivo p15x
+
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Fri, 20 Jun 2025 11:18:03 -0400
+
+remap-keys (1.0.14) stable; urgency=medium
+
+  * Add suporte a maquina n15epe-s
+
+ -- Edson Juliano Drosdeck <edsons@policorp.com.br>  Mon, 24 Mar 2025 14:40:14 -0400
+
 remap-keys (1.0.13) stable; urgency=medium
 
   * Add SINO Keyboard
