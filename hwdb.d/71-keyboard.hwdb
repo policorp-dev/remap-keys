@@ -2196,11 +2196,12 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositi
  KEYBOARD_KEY_68=prog2                                    # Positivo KEY
  KEYBOARD_KEY_76=f21                                    # Fn+F1 toggle touchpad
  KEYBOARD_KEY_6e=search
-
+# Positivo (N14JP6)
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnN14JP6*
 # Positivo (CG15D)
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnCG15D*
-# Positivo Motion (N14AP7, N14DP6, N14DP7, N14DP7-V2, N14DP9, N14JP6, N14KP6)
-evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnN14[ADJK]P*
+# Positivo Motion (N14AP7, N14DP6, N14DP7, N14DP7-V2, N14DP9, N14KP6)
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnN14[ADK]P*
  KEYBOARD_KEY_76=f21                                    # Fn+f2 toggle touchpad
  KEYBOARD_KEY_67=prog1                                  # Programmable button
  KEYBOARD_KEY_68=prog2                                  # Programmable button
