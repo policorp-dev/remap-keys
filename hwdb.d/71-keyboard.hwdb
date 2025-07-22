@@ -2184,6 +2184,11 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositi
  KEYBOARD_KEY_dd=search
 
 # Positivo (P15X)
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositivo*:rnK116J*
+ KEYBOARD_KEY_69=www                                    # Positivo KEY
+ KEYBOARD_KEY_6e=search                                 # Positivo Copilot KEY
+
+# Positivo (P15X)
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositivo*:rnP15X*
  KEYBOARD_KEY_76=f21                                    # Fn+F1 toggle touchpad
  KEYBOARD_KEY_68=www                                    # Positivo KEY
