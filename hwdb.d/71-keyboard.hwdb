@@ -2185,6 +2185,7 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositi
 
 # Positivo (K116J)
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:svnPositivo*:pn*:pvr*:rvnPositivo*:rnK116J*
+ KEYBOARD_KEY_68=www                                    # Positivo KEY
  KEYBOARD_KEY_69=www                                    # Positivo KEY
  KEYBOARD_KEY_6e=search                                 # Positivo Copilot KEY
 
