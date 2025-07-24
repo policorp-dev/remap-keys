@@ -1,3 +1,9 @@
+remap-keys (1.0.18) stable; urgency=medium
+
+  * Add suporte para P15S
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Thu, 24 Jul 2025 10:12:53 -0300
+
 remap-keys (1.0.17) stable; urgency=medium
 
   * Add suporte para K116J
