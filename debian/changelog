@@ -1,3 +1,9 @@
+remap-keys (1.0.20) stable; urgency=medium
+
+  * Add suporte vjfh52-rpl
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Mon, 13 Oct 2025 13:24:19 -0400
+
 remap-keys (1.0.19) stable; urgency=medium
 
   * fix para K116j
