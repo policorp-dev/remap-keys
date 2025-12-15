@@ -1,3 +1,9 @@
+remap-keys (1.0.21) stable; urgency=medium
+
+  * atualizado tecla Positivo-key para N15EPE-S
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Mon, 15 Dec 2025 14:50:31 -0300
+
 remap-keys (1.0.20) stable; urgency=medium
 
   * Add suporte vjfh52-rpl
