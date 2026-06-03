@@ -2253,6 +2253,10 @@ evdev:name:SINO WEALTH USB KEYBOARD:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pv
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnDN50E-140H*
  KEYBOARD_KEY_6e=compose
 
+# Positivo ARN50-140H
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:svnPositivoTecnologiaSA:pn*:pvr*:rvn*:rnARN50-140H*
+ KEYBOARD_KEY_6e=compose
+
 # Multilaser (Ultra)
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*bvr*:svnMultilaserIndustrial:pn*:pvr*:rvnMultilaserIndustrial:rnUL154*
  KEYBOARD_KEY_76=f21                                    # Fn+f2 toggle touchpad
