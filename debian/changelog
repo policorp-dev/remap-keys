@@ -1,3 +1,9 @@
+remap-keys (1.0.25) stable; urgency=medium
+
+  * Add modelo n15rpe-s
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Fri, 31 Jul 2026 09:16:27 -0400
+
 remap-keys (1.0.24) stable; urgency=medium
 
   * Adicionado fix  n14jp9-200b
