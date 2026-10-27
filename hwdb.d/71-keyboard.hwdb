@@ -2173,6 +2173,10 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoTecnologiaSA:pnVJFH52F11X*:pvr*:*
  KEYBOARD_KEY_6e=search                                 # Positivo Copilot KEY
 	
+# VAIO VJFH52-RPL (2026)
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJFH52F11X*:pvr*:*
+ KEYBOARD_KEY_6e=127
+
 # VAIO VJFH52
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJFH52F11X*:pvr*:*
  KEYBOARD_KEY_f8=f21		                        # Fn+F1 toggle touchpad

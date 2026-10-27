@@ -2,7 +2,7 @@ remap-keys (1.0.28) stable; urgency=medium
 
   * Alterado valor da tecla giro de display para vjfe6cb
 
- -- Edson Juliano Drosdeck <edson@policorp.com.br>  Wed, 23 Sep 2026 13:27:37 -0300
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Wed, 23 Sep 2026 13:27:37 -0300
 
 remap-keys (1.0.27) stable; urgency=medium
 
