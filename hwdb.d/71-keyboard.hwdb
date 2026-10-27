@@ -2166,7 +2166,7 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:
 # Vaio VJFE6CB
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJFE6C*:pvr*:*
  KEYBOARD_KEY_76=f21		                        # Fn+F1 toggle touchpad
- KEYBOARD_KEY_6b=rotate_display		                        # rotate display
+ KEYBOARD_KEY_69=rotate_display		                        # rotate display
  KEYBOARD_KEY_6e=search                                 # Positivo Copilot Key
  
 # VAIO VJFH52-RPL
