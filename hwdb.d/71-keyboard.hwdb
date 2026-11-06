@@ -2164,9 +2164,7 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:
 
 # VAIO FE14 (VJBK1CF11X, VJBK1CB)
 evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJBK*:pvr*:*
- KEYBOARD_KEY_76=f21		                        # Fn+F1 toggle touchpad
- KEYBOARD_KEY_6b=rotate_display		                        # rotate display
- KEYBOARD_KEY_6e=127                                      # key compose 
+ KEYBOARD_KEY_76=f21		                        # Fn+F1 toggle touchpad 
 
 
 # Vaio VJFE6CB
