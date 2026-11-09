@@ -2163,7 +2163,8 @@ evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:
  KEYBOARD_KEY_6e=127                                      # key compose 
 
 # VAIO FE14 (VJBK1CF11X, VJBK1CB)
-evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJBK*:pvr*:*
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJBK1CB*:pvr*:*
+evdev:name:AT Translated Set 2 keyboard:dmi:bvn*:bvr*:bd*:svnPositivoBahia-VAIO:pnVJBK1CF11X*:pvr*:*
  KEYBOARD_KEY_76=f21		                        # Fn+F1 toggle touchpad 
 
 
