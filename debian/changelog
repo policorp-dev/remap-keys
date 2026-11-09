@@ -1,3 +1,9 @@
+remap-keys (1.0.30) stable; urgency=medium
+
+  * Add suporte ao modelo VAIO FE14 (VJBK / VJFE) #16
+
+ -- Pedro Mazzeu <pedro.mazzeu@policorp.com.br>  Fri, 06 Nov 2026 15:25:00 -0300
+
 remap-keys (1.0.29) stable; urgency=medium
 
   * Alterado valor da tecla giro de display para vjfe6cb
